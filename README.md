@@ -1,4 +1,4 @@
-# A-clustering-approach-to-finding-hidden-hotels-on-AirBnb-data
+# Machine-Learning-approach-for-finding-hidden-hotels-on-AirBnb-data
 I use a clustering algorithm to identify landlords who are possibly breaking tax and city regulations by listing their property on Air Bnb.
 
-Motivation, technical details and findings are explained on the Jupyter Notebook and on the attached Powerpoint presentation. 
+Motivation, technical details and findings are explained on the Jupyter Notebook. 
